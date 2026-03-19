@@ -14,7 +14,7 @@ Every command uses 3 streams:
 
 ```bash
 command < file.txt
-
+```
 
 ---
 
