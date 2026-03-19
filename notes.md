@@ -1,4 +1,3 @@
-````md
 # Bash I/O & Redirection Notes
 
 ## Core idea
@@ -15,7 +14,7 @@ Every command uses 3 streams:
 
 ```bash
 command < file.txt
-````
+
 
 ---
 
